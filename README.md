@@ -261,3 +261,30 @@ join product on branchshop.branchshopid = product.branchshopid;
 -- join customer on product.branchshopid  = customer.branchshopid
 -- join transactions on customer.branchshopid = transactions.branchshopid;
 
+4:21
+HTTP Methods
+A route file allows you to create custom request handlers for a given route. The following HTTP methods
+ are supported: GET, POST, PUT, PATCH, DELETE, HEAD, and OPTIONS.
+
+nextjs.orgnextjs.org
+File Conventions: route.js | Next.js
+API reference for the route.js special file. (98 kB)
+https://nextjs.org/docs/app/api-reference/file-conventions/route#http-methods
+
+
+MDN Web DocsMDN Web Docs
+HTTP request methods - HTTP | MDN
+HTTP defines a set of request methods to indicate the desired action to be performed for a given resource. Although they can also be nouns, these request methods are sometimes referred to as HTTP verbs. Each of them implements a different semantic, but some common features are shared by a group of them: e.g. a request method can be safe, idempotent, or cacheable.
+https://developer.mozilla.org/docs/Web/HTTP/Methods
+
+
+
+トイン(ミン カン アウン トイン)
+  14:44
+https://developer.mozilla.org/ja/docs/Web/API/Request
+
+MDN Web DocsMDN Web Docs
+Request - Web API | MDN
+Request はフェッチ API のインターフェイスで、リソースのリクエストを表します。 (24 kB)
+
+
